@@ -1,0 +1,3 @@
+# Instructions  
+
+Make a LandTract class that has two fields: one for the tract’s length and one for the width. The class should have a method that returns the tract’s area, as well as an equal method and a toString method. Demonstrate the class in a program that asks the user to enter the dimensions for two tracts of land. The program should display the area of each tract of land and indicate whether the tracts are of equal size.
